@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Web Developer, Chilly Guy
 -------------
 
-I have been interested in programming since my early years. I started with Python, but later found my calling in web development. I have been interested in programming since my early years. I started with Python, but later found my calling in web development. Currently, I have a Middle level of HTML and CSS, and a Junior level of JavaScript. Now I am also learning backend to significantly expand the capabilities of my projects.
+I have been interested in programming since my early years. I started with Python, but later found my calling in web development. I have been interested in programming since my early years. I started with Python, but later found my calling in web development. Now I am also learning backend to significantly expand the capabilities of my projects.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [llukyanov@outlook.com](mailto:llukyanov@outlook.com)
